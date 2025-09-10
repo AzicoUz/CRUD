@@ -75,40 +75,35 @@ Released under the MIT License.
 
 ---
 
-## 🇺🇿 O‘zbekcha Versiya
+🇺🇿 O‘zbekcha Versiya
+📖 Bu loyiha nima?
 
-### 📖 Bu loyiha nima?
+Bu loyiha CRUD (Create, Read, Update, Delete) app bo‘lib, HTML, CSS va JavaScript yordamida yozilgan.
+Unda foydalanuvchi quyidagi ma’lumotlarni kiritishi, tahrir qilishi va o‘chirishi mumkin:
+➡️ Ism, Familiya, Tug‘ilgan sana va Email.
 
-Bu loyiha **CRUD (Create, Read, Update, Delete) app** bo‘lib, **HTML, CSS va JavaScript** yordamida yozilgan.  
-Unda foydalanuvchi quyidagi ma’lumotlarni kiritishi, tahrir qilishi va o‘chirishi mumkin:  
-➡️ Ism, Familiya, Tug‘ilgan sana va Email.  
+Barcha ma’lumotlar brauzerning LocalStorage’ida saqlanadi, shuning uchun sahifani yangilaganingizda ham ular o‘chib ketmaydi. 🚀
 
-Barcha ma’lumotlar brauzerning **LocalStorage**’ida saqlanadi, shuning uchun sahifani yangilaganingizda ham ular o‘chib ketmaydi. 🚀  
+✨ Xususiyatlari
 
-### ✨ Xususiyatlari
+➕ Create — Yangi ma’lumot qo‘shish
 
-- ➕ **Create** — Yangi ma’lumot qo‘shish  
-- 👀 **Read** — Saqlangan ma’lumotlarni ko‘rish  
-- ✏️ **Update** — Eski yozuvlarni o‘zgartirish  
-- ❌ **Delete** — Keraksizlarini o‘chirish  
-- 💾 **LocalStorage** — Ma’lumotlarni mahalliy xotirada saqlash  
-- 🎨 Fon rasmi va hover effektlari bilan chiroyli UI  
+👀 Read — Saqlangan ma’lumotlarni ko‘rish
 
-### 🛠️ Ishlatilgan texnologiyalar
+✏️ Update — Eski yozuvlarni o‘zgartirish
 
-- 🧩 **HTML5** — tuzilma va formalar uchun  
-- 🎨 **CSS3** — dizayn va joylashuv uchun  
-- ⚡ **JavaScript (ES6)** — interaktivlik va LocalStorage uchun  
+❌ Delete — Keraksizlarini o‘chirish
 
-### 🚀 Qanday ishga tushirish kerak?
+💾 LocalStorage — Ma’lumotlarni mahalliy xotirada saqlash
 
-```bash
-# 1. Reponi klon qiling
-git clone https://github.com/USERNAME/CRUD-App.git
+🎨 Fon rasmi va hover effektlari bilan chiroyli UI
 
-# 2. Papkaga kiring
-cd CRUD-App
+🛠️ Ishlatilgan texnologiyalar
 
-# 3. index.html faylini brauzerda oching
+🧩 HTML5 — tuzilma va formalar uchun
 
+🎨 CSS3 — dizayn va joylashuv uchun
 
+⚡ JavaScript (ES6) — interaktivlik va LocalStorage uchun
+
+🚀 Qanday ishga tushirish kerak?
